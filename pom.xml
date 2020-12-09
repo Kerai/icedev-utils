@@ -2,10 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>pl.icedev.java</groupId>
-	<artifactId>icedev-java</artifactId>
-	<version>0.0.1</version>
-	<name>icedev-java</name>
+	<groupId>icedev.utils</groupId>
+	<artifactId>icedev-utils</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
+	<name>icedev-utils</name>
 
 	<properties>
 		<java.version>11</java.version>
